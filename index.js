@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const pathToFile = path.resolve("./data.json");
 const getResources = () => JSON.parse(fs.readFileSync(pathToFile));
 
