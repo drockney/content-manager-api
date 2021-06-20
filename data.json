@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Upload code to GitHub",
+    "description": "Push the UI and API codebases to GitHub repos",
+    "link": "Fallback false",
+    "priority": "1",
+    "timeToFinish": "60",
+    "createdAt": "2021-06-20T17:48:00.000Z",
+    "status": "inactive",
+    "id": "1"
+  },
+  {
+    "title": "Deploy API on Heroku",
+    "description": "Using a free Heroku account, create the Node.JS API endpoint",
+    "link": "Fallback false",
+    "priority": "1",
+    "timeToFinish": "60",
+    "createdAt": "2021-06-20T17:48:00.000Z",
+    "status": "inactive",
+    "id": "2"
+  },
+  {
+    "title": "Deploy UI on Vercel",
+    "description": "Using a free Vercel account, create the Next.JS UI endpoint",
+    "link": "Fallback false",
+    "priority": "1",
+    "timeToFinish": "60",
+    "createdAt": "2021-06-20T17:48:00.000Z",
+    "status": "inactive",
+    "id": "3"
+  }
+]
